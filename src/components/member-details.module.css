@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.text {
+  color: var(--dl-color-secondary-100);
+  text-align: center;
+  padding-top: var(--dl-space-space-unitandhalf);
+}
+.text1 {
+  color: var(--dl-color-secondary-700);
+  text-align: center;
+  text-transform: uppercase;
+}
